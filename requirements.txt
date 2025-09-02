@@ -1,0 +1,9 @@
+# Appium Python Client
+Appium-Python-Client==3.2.1
+
+# Selenium WebDriver (required by Appium)
+selenium==4.15.2
+
+# Additional utilities
+pytest==7.4.3
+pytest-html==4.1.1

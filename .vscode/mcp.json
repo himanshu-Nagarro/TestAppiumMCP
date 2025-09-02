@@ -1,0 +1,11 @@
+{
+    "servers": {
+        "mobile-automation": {
+            "type": "stdio",
+            "command": "C:\\Users\\ankushsharma03\\NoDrive\\INDITEX\\appium-mcp\\.venv\\Scripts\\python.exe",
+            "args": ["server.py"],
+            "cwd": "C:\\Users\\ankushsharma03\\NoDrive\\INDITEX\\appium-mcp"
+        }
+    },
+    "inputs": []
+}
